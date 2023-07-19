@@ -30,7 +30,7 @@ Zajímavosti:
 - Idlewild je původní název letiště J.F.Kennedyho v New Yorku.  V knize hledají nový název letistě. Nakonec jej pojmenují Letiška Elvise Presleyho.
 
 Brian Tracy : Snězte tu žábu!
-Výborná kniha z oblasti Time-Managementu. Brian Tracey je guru v oblasti osobního rozvoje.
+	Výborná kniha z oblasti Time-Managementu. Brian Tracey je guru v oblasti osobního rozvoje.
 Žába v této knize představuje nějaký obtížný a nepříjemný úkol, do kterého se nám obvykle vůbec nechce. A který se přitom velice důležitý.  
 Jeho rady vážně fungují! Jsem překvapený, o jak jednoduché a přitom účinné metody se jedná. Knihu si přečtěte. Třeba tím zvýšíte i svoji produktivitu. 
 Hlavní motem knihy je citát Marka Twaina: Začněte ten tím, že spolknete žábu. Budete mít jistotu, že vás ten den už nic horšího nepotká. 
@@ -40,7 +40,7 @@ Ostatní knihy autora:
 Výborný doplněk k této knize je kniha Polibte tu žábu!, která popisuje, jak vycházet s obtížnými lidmi a jak zvládat stresové situace. 
 
 Hans Rosling : Faktomluva
-Výborná kniha pro všechny škarohlídy a ty, kteří neustále nadávají na to, jak je současný svět špatný. Jak se mají zle a jak se všechno neustále zhorčuje. Opravdu je to tak? A jaká jsou fakta. Autor přišel s originálním rozdělením příjmových úrovní do 4 skupin. Projel svět a jednal s mnoha vlivnými osobnostmi. Při této činnosti s hrůzou zjistil, že většina obyvatel má řadu předsudků o světě kolem nás. Kniha obsahuje testové otázky ohledně světa kolem nás. Doporučuji každému, aby si tento test udělal. Pravděpodobně bude překvapený, jaké předsudky a chybné představy o okolním světě má. Malou útěchou mu může být, že nejlepší studenti, manageři, investoři a další odpovídali stejně spatně. A jak je to doopravdy?
+	Výborná kniha pro všechny škarohlídy a ty, kteří neustále nadávají na to, jak je současný svět špatný. Jak se mají zle a jak se všechno neustále zhorčuje. Opravdu je to tak? A jaká jsou fakta. Autor přišel s originálním rozdělením příjmových úrovní do 4 skupin. Projel svět a jednal s mnoha vlivnými osobnostmi. Při této činnosti s hrůzou zjistil, že většina obyvatel má řadu předsudků o světě kolem nás. Kniha obsahuje testové otázky ohledně světa kolem nás. Doporučuji každému, aby si tento test udělal. Pravděpodobně bude překvapený, jaké předsudky a chybné představy o okolním světě má. Malou útěchou mu může být, že nejlepší studenti, manageři, investoři a další odpovídali stejně spatně. A jak je to doopravdy?
 K jakým změnám došlo ve světě za posledních 30 let? A je to lepší, horší, nebo stejné? 
 Kniha je výborný prostředek na špatnou náladu. Pokud vám všechno kolem připadá špatné a beznadějné, jděte a přečtěte si Pokud se chcete konstruktivně bavit a ne jenom nadávat u píva a dokolečka omílat stejné nesmyslny, běžte a přečtěte si tuto knihu.
 A pokud neradi čtete, podívejte se na Gapminder.org
@@ -57,3 +57,14 @@ Ostatní díla autora:
 www.gapminder.org
 na youtube zadat: Hans Rosling
 Nevýhody: Kniha obsahuje končí daty z roku 2016. Dnes je tedy mírně zastaralá. Bylo by vhodné vydat aktualizovanou verzi. To je úkol pro jeho dědice. Hans bohužel zemřel v roce 2017. V knize je několik předpovědí. I tím je pro mě zajímavé ji číst a porovnat prognózy s dnešním stavem. Dobré je to doplnit návštěvou Gapminder, ten je pravidelně aktualizován.
+
+Niki Lauda : Mé roky s Ferrari
+	Knihu napsal Niki Lauda koncem 70. let. U nás ji vydala Mladá Fronta v 80. letech a je k ní napsán doslov Karla Hrubce.
+Niki v ní vzpomíná na své začátky a také na nejslavnější okamžiky své kariéry. Lauda byl velice inteligentní člověk, který své body získával hlavou. Evidentně byl také přemýšlivý,  což dokazuje jeho další kariéra mimo závodní dráhu. 
+V knize bez poznátka popisuje často drsnou a nelítostnou realitu motosportu. Také vyvrací některé rozšířené míty. 
+Hodně mě zaujaly jeho úvahy ohledně bezpečnosti, rizika, veřejné slávy. A také práva na soukromí. V českém překladu je doslov Karla Hrubce, který obsahuje zajímavý pohled na Nikiho Laudu zvenčí a na motosport očima českého člověka. Tím je pro mě cenný. 
+Knihu jsem četl několikrát. Hlavní čtení pro mě byla 3: Poprvé v puběrtě. To mě příliš nezaujala. Podruhé v roce 2005. To jsem dokončil Vyšší odbornou školu v Pardubicích, nastoupil do zaměstnání a hledal místo v životě. To už jsem měl některé zkušenosti a tak jsem některé věci vychutnal a z jiných se poučil. Třetí čtení proběhlo v roce 2019. To když jsem se dozvěděl, že Niki umřel. Tohle čtení bylo nejpodrobnější a nejsilnější.
+Doporučení:
+Podívejte se na film Rivalové. Jedná o tom samém. Ale pozor. Faktograficky není zcela přesný. Doporučuji jej porovnat s knihou.
+
+Karel Čapek : Továrna na absolutno
